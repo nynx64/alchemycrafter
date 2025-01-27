@@ -1,0 +1,294 @@
+{
+    "reagents": [
+        {
+            "name": "Curative",
+            "category": "Curative",
+            "rarity": "Common",
+            "value": "1gp",
+            "type": "heal",
+            "effect": "Healing",
+            "damage": "1d4",
+            "dc": 1
+        },
+        {
+            "name": "Poisonous",
+            "category": "Poisonous",
+            "rarity": "Common",
+            "value": "1gp",
+            "type": "damage",
+            "effect": "Poison Damage",
+            "damage": "1d4",
+            "dc": 1
+        },
+        {
+            "name": "Reactive",
+            "category": "Reactive",
+            "rarity": "Common",
+            "value": "1gp",
+            "type": "damage",
+            "effect": "Fire Damage",
+            "damage": "1d4",
+            "dc": 1
+        },
+        {
+            "name": "Curative",
+            "category": "Curative",
+            "rarity": "Uncommon",
+            "value": "10gp",
+            "type": "heal",
+            "effect": "Healing",
+            "damage": "2d4",
+            "dc": 2
+        },
+        {
+            "name": "Poisonous",
+            "category": "Poisonous",
+            "rarity": "Uncommon",
+            "value": "10gp",
+            "type": "damage",
+            "effect": "Poison Damage",
+            "damage": "2d4",
+            "dc": 2
+        },
+        {
+            "name": "Reactive",
+            "category": "Reactive",
+            "rarity": "Uncommon",
+            "value": "10gp",
+            "type": "damage",
+            "effect": "Fire Damage",
+            "damage": "2d4",
+            "dc": 2
+        },
+        {
+            "name": "Icy",
+            "category": "Icy",
+            "rarity": "Uncommon",
+            "value": "10gp",
+            "type": "modifier",
+            "effect": "Change Damage Type to Ice",
+            "damage": null,
+            "dc": 2
+        },
+        {
+            "name": "Tempestuous",
+            "category": "Tempestuous",
+            "rarity": "Uncommon",
+            "value": "10gp",
+            "type": "effect",
+            "effect": "Adds splash effect (5ft range)",
+            "damage": null,
+            "dc": 2
+        },
+        {
+            "name": "Curative",
+            "category": "Curative",
+            "rarity": "Rare",
+            "value": "100gp",
+            "type": "heal",
+            "effect": "Healing",
+            "damage": "3d4",
+            "dc": 3
+        },
+        {
+            "name": "Poisonous",
+            "category": "Poisonous",
+            "rarity": "Rare",
+            "value": "100gp",
+            "type": "damage",
+            "effect": "Poison Damage",
+            "damage": "3d4",
+            "dc": 3
+        },
+        {
+            "name": "Reactive",
+            "category": "Reactive",
+            "rarity": "Rare",
+            "value": "100gp",
+            "type": "damage",
+            "effect": "Fire Damage",
+            "damage": "3d4",
+            "dc": 3
+        },
+        {
+            "name": "Divine",
+            "category": "Divine",
+            "rarity": "Rare",
+            "value": "500gp",
+            "type": "effect",
+            "effect": "Remove Poisoned, Blind, Deafened, and one Disease",
+            "damage": null,
+            "dc": 3
+        },
+        {
+            "name": "Shocking",
+            "category": "Shocking",
+            "rarity": "Rare",
+            "value": "100gp",
+            "type": "modifier",
+            "effect": "Change Damage Type to Lightning",
+            "damage": null,
+            "dc": 3
+        },
+        {
+            "name": "Tempestuous",
+            "category": "Tempestuous",
+            "rarity": "Rare",
+            "value": "100gp",
+            "type": "effect",
+            "effect": "Adds splash effect (10ft range)",
+            "damage": null,
+            "dc": 3
+        },
+        {
+            "name": "Curative",
+            "category": "Curative",
+            "rarity": "Very Rare",
+            "value": "1000gp",
+            "type": "heal",
+            "effect": "Healing",
+            "damage": "4d4",
+            "dc": 4
+        },
+        {
+            "name": "Poisonous",
+            "category": "Poisonous",
+            "rarity": "Very Rare",
+            "value": "1000gp",
+            "type": "damage",
+            "effect": "Poison Damage",
+            "damage": "4d4",
+            "dc": 4
+        },
+        {
+            "name": "Reactive",
+            "category": "Reactive",
+            "rarity": "Very Rare",
+            "value": "1000gp",
+            "type": "damage",
+            "effect": "Fire Damage",
+            "damage": "4d4",
+            "dc": 4
+        },
+        {
+            "name": "Chromatic",
+            "category": "Chromatic",
+            "rarity": "Very Rare",
+            "value": "1000gp",
+            "type": "modifier",
+            "effect": "Change Damage Type to Psychic",
+            "damage": null,
+            "dc": 4
+        },
+        {
+            "name": "Wilting",
+            "category": "Wilting",
+            "rarity": "Very Rare",
+            "value": "1000gp",
+            "type": "modifier",
+            "effect": "Change Damage Type to Necrotic",
+            "damage": null,
+            "dc": 4
+        },
+        {
+            "name": "Divine",
+            "category": "Divine",
+            "rarity": "Very Rare",
+            "value": "5000gp",
+            "type": "effect",
+            "effect": "Remove Exhaustion Levels, Remove Poisoned, Blind, Deafened, and one Disease",
+            "damage": null,
+            "dc": 4
+        },
+        {
+            "name": "Divine",
+            "category": "Divine",
+            "rarity": "Legendary",
+            "value": "50000gp",
+            "type": "effect",
+            "effect": "Remove Exhaustion Levels, Remove Poisoned, Blind, Deafened, and one Disease, Removes any Curses",
+            "damage": null,
+            "dc": 5
+        },
+        {
+            "name": "Curative",
+            "category": "Curative",
+            "rarity": "Legendary",
+            "value": "10000gp",
+            "type": "heal",
+            "effect": "Healing",
+            "damage": "5d4",
+            "dc": 5
+        },
+        {
+            "name": "Poisonous",
+            "category": "Poisonous",
+            "rarity": "Legendary",
+            "value": "10000gp",
+            "type": "damage",
+            "effect": "Poison Damage",
+            "damage": "5d4",
+            "dc": 5
+        },
+        {
+            "name": "Reactive",
+            "category": "Reactive",
+            "rarity": "Legendary",
+            "value": "10000gp",
+            "type": "damage",
+            "effect": "Fire Damage",
+            "damage": "5d4",
+            "dc": 5
+        },
+        {
+            "name": "Catnap Tails",
+            "category": "Exotic",
+            "rarity": "Uncommon",
+            "value": "50gp",
+            "type": "effect",
+            "effect": "Puts target to sleep; DC 14 CON",
+            "damage": null,
+            "dc": 1
+        },
+        {
+            "name": "Dragongrass",
+            "category": "Exotic",
+            "rarity": "Rare",
+            "value": "500gp",
+            "type": "effect",
+            "effect": "Transforms effect into a breath weapon; 30ft cone; DC 15 DEX",
+            "damage": null,
+            "dc": 3
+        },
+        {
+            "name": "Catnap Tails",
+            "category": "Exotic",
+            "rarity": "Rare",
+            "value": "500gp",
+            "type": "effect",
+            "effect": "Puts target to sleep; DC 16 CON",
+            "damage": null,
+            "dc": 3
+        },
+        {
+            "name": "Dragongrass",
+            "category": "Exotic",
+            "rarity": "Very Rare",
+            "value": "5000gp",
+            "type": "effect",
+            "effect": "Transforms effect into a breath weapon; 45ft cone; DC 17 DEX",
+            "damage": null,
+            "dc": 4
+        },
+        {
+            "name": "Catnap Tails",
+            "category": "Exotic",
+            "rarity": "Very Rare",
+            "value": "5000gp",
+            "type": "effect",
+            "effect": "Puts target to sleep; DC 18 CON",
+            "damage": null,
+            "dc": 4
+        }
+    ]
+}
